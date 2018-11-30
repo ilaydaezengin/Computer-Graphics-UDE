@@ -1,4 +1,4 @@
-package assignment;
+package submission.IlaydaZengin;
 
 import java.io.File;
 import java.awt.Graphics;
